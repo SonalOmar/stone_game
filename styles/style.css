@@ -1,0 +1,24 @@
+body{
+    background-color: aquamarine;
+}
+button img {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+button{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+table td{
+    background-color: wheat;
+}
+table th
+{
+    background-color:aqua
+}
+/* .button-img-cont{
+    display: flex;
+    justify-content: center;
+} */
